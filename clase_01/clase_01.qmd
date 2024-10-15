@@ -1,0 +1,132 @@
+---
+execute:
+  echo: true
+format:
+  revealjs:
+    output-file: "clase_01"
+    width: 1245
+    height: 700
+    embed-resources: false
+    preview-links: false
+    toc: false
+    menu: false
+    controls: true
+    slide-number: false
+    transition: fade
+    theme:
+        - simple
+    auto-stretch: false
+    center: true
+filters: 
+  - pyodide
+---
+
+## Semillero UPlanner María Cano
+### Nivel Junior Python
+#### Profesor: Sebastián Flores
+
+--- 
+
+## Clase 01
+
+---
+
+## El profe
+::: {.fragment}
+- Sebastián Flores
+- sebastiandres (linkedin, github, ...)
+- sebastiandres.xyz
+:::
+
+---
+
+¿Cuánto has trabajado con python?
+
+1. Nada, no lo conozco.
+2. Proyectos de universidad
+3. Proyectos personales
+4. Proyectos profesionales
+
+---
+
+¿Cuántas formas de fallar tiene la siguiente función?
+```{pyodide-python}
+def dividir_numeros(a, b):
+    return a / b
+
+dividir_numeros(10, 2)
+```
+
+---
+
+## 
+
+Concepto fundamental
+
+::: {.fragment}
+Programación a la defensiva
+:::
+
+---
+
+## Herramientas: git
+
+::: {.fragment}
+- pull
+- commit 
+- push
+- branch
+::: 
+
+---
+
+## Herramientas: git
+
+https://github.com/sebastiandres/FUMC_python_y_datos
+
+---
+
+## Herramientas: convenciones
+
+::: {.fragment}
+- Numeración archivos
+- Nombres archivos
+- Fechas
+:::
+
+---
+
+## Herramientas: estructura de carpetas
+
+::: {.fragment}
+- input/
+  - datos_crudos/ (raw)
+  - datos_limpios/ (clean)
+- tmp/
+- output/
+  - figuras/
+  - reportes/
+- codigo/
+- environment.txt
+- README.txt
+::: 
+
+---
+
+## Herramientas: Ambientes Virtuales
+
+::: {.fragment}
+- virtualenv
+- requirements.txt
+:::
+
+---
+
+## Herramientas: IDE
+
+::: {.fragment}
+- VSCode
+- Cursor
+- ...
+::: 
+
