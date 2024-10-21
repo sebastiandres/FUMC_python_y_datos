@@ -130,3 +130,16 @@ https://github.com/sebastiandres/FUMC_python_y_datos
 - ...
 ::: 
 
+---
+
+## Tareas
+
+- git
+  - Clonar el repositorio de la clase
+  - Practicar con un repositorio propio (pull, commit, push, add)
+- venv
+  - Instalar el ambiente virtual de la clase
+  - Instalar el requirements.txt
+- python
+  - Refrescar conocimiento de strings, listas y diccionarios
+  - Instalar un IDE (VSCode o Cursor o lo que prefieran)
