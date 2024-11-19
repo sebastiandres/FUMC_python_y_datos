@@ -14,7 +14,7 @@ Existen 3 archivos que contienen información sobre los docentes de la universid
 
 ### Enlaces
 Repositorio de GitHub: https://github.com/sebastiandres/FUMC_python_y_datos
-Directorio: clase_05/desafio
+Directorio: clase_05_desafio
 
 ### Entregables
 Para resolver este desafío, debes entregar:
