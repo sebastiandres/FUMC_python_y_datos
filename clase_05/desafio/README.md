@@ -13,9 +13,9 @@ Existen 3 archivos que contienen información sobre los docentes de la universid
 - `docentes_3.parquet`: contiene información sobre los periodos académicos en los que trabajó un instructor y el tipo de contrato que tenía. Este archivo fue generado automáticamente por un sistema de la universidad, por lo que no debiera contener errores. Tiene las columnas idDocente, nombreDocente, contrato, periodoAcademico
 
 ### Enlaces
-Repositorio de GitHub: https://github.com/sebastiandres/FUMC_python_y_datos
-Directorio: clase_05/desafio
-
+- Repositorio de GitHub: https://github.com/sebastiandres/FUMC_python_y_datos
+- Directorio: clase_05/desafio
+- README: https://github.com/sebastiandres/FUMC_python_y_datos/tree/main/clase_05/desafio#readme
 ### Entregables
 Para resolver este desafío, debes entregar:
 - Un archivo README.md que explique el proceso que seguiste para generar y limpiar los datos, así como cualquier dificultad que encontraste y cómo lo resolviste.
